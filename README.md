@@ -1,3 +1,5 @@
+<img width="1380" height="755" alt="hi 2" src="https://github.com/user-attachments/assets/c75638f9-d9ed-4f56-9ade-f8255500e7f5" />
+<img width="1358" height="745" alt="Parks Pizaa Dashboard" src="https://github.com/user-attachments/assets/0ef26f83-6126-4399-a402-551ffbc6386e" />
 # 🍕 Park’s Pizza Sales Analysis (Power BI)
 
 ## 📌 Project Overview
